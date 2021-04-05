@@ -1,6 +1,7 @@
 # Trie-Data-Structure
 ##The Use of this Program
 In this test program, there is only one file that you have to import and run and it is a python file that houses the entirety of the data structure and all the tests. If you want to run your own tests, you only need to change the arguments under the program where it says :
+  
   if __name__ == "__main__":
       root = TrieNode('*')
       Insert(root, "test")
