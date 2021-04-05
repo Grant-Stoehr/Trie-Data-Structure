@@ -8,7 +8,6 @@ In this test program, there is only one file that you have to import and run and
       Insert(root, "testing")
       Insert(root, "hello")
       Insert(root, "world")
-
       print(Search(root, "boomer"))
       print(Search(root, "wo"))
       print(Search(root, "hello"))
