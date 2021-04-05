@@ -17,3 +17,4 @@ In this test program, there is only one file that you have to import and run and
 If you are changing the program arguments, make sure you do NOT change the words "root" and you only change the words in the quotations e.x "test", "testing", "wo".
 
 If you are looking for to explore and learn more about a Trie structure, visit:
+https://gstoehr.medium.com/trie-data-structures-better-than-hash-tables-2c95b63347f8
