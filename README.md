@@ -9,11 +9,12 @@ In this test program, there is only one file that you have to import and run and
     Insert(root, "testing")
     Insert(root, "hello")
     Insert(root, "world")
+'''
 
     print(Search(root, "boomer"))
     print(Search(root, "wo"))
     print(Search(root, "hello"))
-    '''
+    
  
 If you are changing the program arguments, make sure you do NOT change the words "root" and you only change the words in the quotations e.x "test", "testing", "wo".
 
